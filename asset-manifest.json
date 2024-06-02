@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maketdone/static/css/main.afc7b83c.css",
+    "main.js": "/maketdone/static/js/main.aa111120.js",
+    "static/js/453.ed3810f9.chunk.js": "/maketdone/static/js/453.ed3810f9.chunk.js",
+    "static/media/img.webp": "/maketdone/static/media/img.b961e6474c59c5c518d4.webp",
+    "index.html": "/maketdone/index.html",
+    "main.afc7b83c.css.map": "/maketdone/static/css/main.afc7b83c.css.map",
+    "main.aa111120.js.map": "/maketdone/static/js/main.aa111120.js.map",
+    "453.ed3810f9.chunk.js.map": "/maketdone/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc7b83c.css",
+    "static/js/main.aa111120.js"
+  ]
+}
